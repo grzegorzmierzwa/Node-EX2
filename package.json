@@ -1,0 +1,12 @@
+{
+  "name": "Node-EX2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grzegorzmierzwa/Node-EX2.git",
+  "author": "Grzegorz Mierzwa <mierzwagrzegorz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
