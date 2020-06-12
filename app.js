@@ -83,6 +83,8 @@ const startApp = async () => {
             console.log('Something went wrong... Try again');
         }
     }
+    console.log('Successfully completed');
+    startApp();
 };
 
 startApp();
